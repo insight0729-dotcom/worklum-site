@@ -14,3 +14,7 @@
 /* 가이드 게시판 목록 여백을 본문과 맞춤 2026-11-22 */
 #w20261120fddce459612f1 .board-head,#w20261120fddce459612f1 .li_table{max-width:760px;margin-left:auto!important;margin-right:auto!important}
 @media (max-width:767px){#w20261120fddce459612f1 .board-head,#w20261120fddce459612f1 .li_table{padding-left:5px;padding-right:5px}#w20261120fddce459612f1 .li_table ul.list{padding-left:0!important;padding-right:0!important}}
+/* 가이드 게시판 목록 썸네일(정사각 160px 원본) 키우고 위 정렬 2026-11-22 */
+#w20261120fddce459612f1 .li_table .board_thumb_wrap{vertical-align:top!important;padding-top:4px;width:140px!important;min-width:140px}
+#w20261120fddce459612f1 .li_table img.board_thumb{width:120px!important;height:120px!important;max-width:none!important;max-height:none!important;object-fit:cover;border-radius:8px;display:block}
+@media (max-width:767px){#w20261120fddce459612f1 .li_table img.board_thumb{width:84px!important;height:84px!important}#w20261120fddce459612f1 .li_table .board_thumb_wrap{width:98px!important;min-width:98px}}
