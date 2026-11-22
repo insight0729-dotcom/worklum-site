@@ -10,3 +10,4 @@
 #w20261120fddce459612f1 .board_txt_area table{max-width:100%;word-break:keep-all}
 @media (max-width:767px){#w20261120fddce459612f1 .board_view{padding-left:5px;padding-right:5px}#w20261120fddce459612f1 .board_txt_area table{display:block;overflow-x:auto}}
 @media (min-width:768px){#w20261120fddce459612f1 .list_text_title .title_link,#w20261120fddce459612f1 .list_text_title .title_link span{font-size:20px!important}#w20261120fddce459612f1 .board_txt_area p,#w20261120fddce459612f1 .board_txt_area li,#w20261120fddce459612f1 .board_txt_area blockquote{font-size:18px!important}}
+#doz_footer .wk-login a{color:#8c8c8c!important;font-size:12px!important;text-decoration:none!important}
